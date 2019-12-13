@@ -1,3 +1,3 @@
 # h5Painter
 网页绘图板，使用了fabric.js
-http://h5painter.deeptech.site/
+https://jjjkkkhhhggg.coding.me/painter_based_on_h5/
